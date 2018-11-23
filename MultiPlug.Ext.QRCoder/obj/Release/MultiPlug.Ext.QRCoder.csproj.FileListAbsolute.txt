@@ -1,0 +1,8 @@
+C:\projects\i4Core\Connector\MultiPlug.Ext.QRCoder\MultiPlug.Ext.QRCoder\bin\Release\MultiPlug.Ext.QRCoder.dll
+C:\projects\i4Core\Connector\MultiPlug.Ext.QRCoder\MultiPlug.Ext.QRCoder\bin\Release\MultiPlug.Ext.QRCoder.pdb
+C:\projects\i4Core\Connector\MultiPlug.Ext.QRCoder\MultiPlug.Ext.QRCoder\bin\Release\MultiPlug.Base.dll
+C:\projects\i4Core\Connector\MultiPlug.Ext.QRCoder\MultiPlug.Ext.QRCoder\bin\Release\MultiPlug.Extension.Core.dll
+C:\projects\i4Core\Connector\MultiPlug.Ext.QRCoder\MultiPlug.Ext.QRCoder\bin\Release\QRCoder.dll
+C:\projects\i4Core\Connector\MultiPlug.Ext.QRCoder\MultiPlug.Ext.QRCoder\obj\Release\MultiPlug.Ext.QRCoder.csprojResolveAssemblyReference.cache
+C:\projects\i4Core\Connector\MultiPlug.Ext.QRCoder\MultiPlug.Ext.QRCoder\obj\Release\MultiPlug.Ext.QRCoder.dll
+C:\projects\i4Core\Connector\MultiPlug.Ext.QRCoder\MultiPlug.Ext.QRCoder\obj\Release\MultiPlug.Ext.QRCoder.pdb
